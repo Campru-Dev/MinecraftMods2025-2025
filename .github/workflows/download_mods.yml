@@ -58,6 +58,7 @@ jobs:
           tag: ${{ env.TAG_NAME }}
           name: ${{ env.TAG_NAME }}
           body: "Automated mods release for commit $GITHUB_SHA"
-          files: ${{ env.ZIP_NAME }}
+          artifacts: ${{ env.ZIP_NAME }}
           draft: false
           prerelease: false
+          token: ${{ secrets.PAT_TOKEN }}
