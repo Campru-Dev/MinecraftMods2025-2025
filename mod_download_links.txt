@@ -28,6 +28,10 @@ https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1
 #Quark Dependency
 https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar
 
+#COFH Core 11.0.2.56
+#Thermal Series Dependency
+https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1-11.0.2.56.jar
+
 
 
 #BOSSES
@@ -95,7 +99,7 @@ https://cdn.modrinth.com/data/ncAcdgk7/versions/AuQD3oA8/pneumaticcraft-repressu
 
 #ImmersiveEngineering FORGE 10.2.0-183
 #Retrofuturism, industry and multiblocks
-https://cdn.modrinth.com/data/tIm2nV03/versions/WUzj4tgJ/ImmersiveEngineering-1.20.1-10.2.0-183.jar
+https://cdn.modrinth.com/data/tIm2nV03/versions/uqGFpLXw/ImmersiveEngineering-1.20.1-10.0.0-169.jar
 
 #EnderIO FORGE 6.2.16
 #Full-featured tech mod. It has armor, tools, weapons, machines, conduits, inventory management, mobs, etc.
