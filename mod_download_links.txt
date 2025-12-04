@@ -15,6 +15,15 @@
 #GECKOLIB FORGE 4.8.2 
 https://cdn.modrinth.com/data/8BmcQJ2H/versions/aVW7Z5da/geckolib-forge-1.20.1-4.8.2.jar
 
+#Lionfish-API NEO/FORGE 2.4
+https://cdn.modrinth.com/data/FoVacERa/versions/KZh3Mkcu/lionfishapi-2.4.jar
+
+#Obscure API FORGE 18
+https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar
+
+#Curios API NEO/FORGE 5.14.1
+https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar
+
 #BOSSES
 #Mowzies Mobs FORGE v1.7.3
 https://cdn.modrinth.com/data/BFbX9xcm/versions/WMCZ4t5U/mowziesmobs-1.7.3.jar
@@ -30,3 +39,9 @@ https://cdn.modrinth.com/data/46KJle7n/versions/NvvXful4/L_Enders_Cataclysm-3.16
 
 #Village and Spillage NEO/FORGE 1.2.8 
 https://cdn.modrinth.com/data/kLoMCc4b/versions/90YOIp4K/illageandspillagerespillaged-1.2.8.jar
+
+#Aquamirae FORGE 6.1.2
+https://cdn.modrinth.com/data/k23mNPhZ/versions/ADmEFc16/aquamirae-forge-1.20.1-6.1.2.jar
+
+#Call of yucutan FORGE 1.0.13
+https://cdn.modrinth.com/data/RV4ezinu/versions/s49dr29b/call_of_yucutan-1.0.13-forge-1.20.1.jar
