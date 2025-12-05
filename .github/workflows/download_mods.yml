@@ -59,7 +59,7 @@ jobs:
         with:
           tag: ${{ env.TAG_NAME }}
           name: ${{ env.TAG_NAME }}
-          body: "Automated mods release for commit with ID: ${{env.GITHUB_SHA}}"
+          body: "Automated mods release for commit with ID: ${{ github.sha }}"
           artifacts: ${{ env.ZIP_NAME }}
           draft: false
           prerelease: false
