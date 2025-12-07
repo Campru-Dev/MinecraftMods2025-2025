@@ -271,6 +271,18 @@ https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.
 #JEI integration that adds info on mobs, world gen, villagers and many more!
 https://cdn.modrinth.com/data/uEfK2CXF/versions/jW52tbTk/JustEnoughResources-1.20.1-1.4.0.247.jar
 
+#Jade NEO/FORGE 11.13.2
+https://cdn.modrinth.com/data/nvQzSEkH/versions/LecuGude/Jade-1.20.1-Forge-11.13.2.jar
+
+#ForgeMatica 0.1.13
+https://cdn.modrinth.com/data/dCKRaeBC/versions/YncE2C0Y/Forgematica-0.1.13-mc1.20.1.jar
+
+#CustomSkinLoader 14.26.1
+https://cdn.modrinth.com/data/idMHQ4n2/versions/CcAsu9W3/CustomSkinLoader_ForgeV2-14.26.1.jar
+
+#Journey Map 5.10.3
+https://cdn.modrinth.com/data/lfHFW1mp/versions/r7FWVNCs/journeymap-1.20.1-5.10.3-forge.jar
+
 
 
 #SERVER SIDE
